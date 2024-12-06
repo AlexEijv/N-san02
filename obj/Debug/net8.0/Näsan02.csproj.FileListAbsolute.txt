@@ -1,0 +1,14 @@
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\bin\Debug\net8.0\Näsan02.exe
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\bin\Debug\net8.0\Näsan02.deps.json
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\bin\Debug\net8.0\Näsan02.runtimeconfig.json
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\bin\Debug\net8.0\Näsan02.dll
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\bin\Debug\net8.0\Näsan02.pdb
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.AssemblyInfoInputs.cache
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.AssemblyInfo.cs
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.csproj.CoreCompileInputs.cache
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.dll
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\refint\Näsan02.dll
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.pdb
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\Näsan02.genruntimeconfig.cache
+c:\Users\alexander.eijvergar\Documents\Programering\Näsan02\Näsan02\obj\Debug\net8.0\ref\Näsan02.dll
